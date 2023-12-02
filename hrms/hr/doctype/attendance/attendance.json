@@ -19,6 +19,7 @@
   "attendance_date",
   "company",
   "department",
+  "shift_start",
   "attendance_request",
   "details_section",
   "shift",
